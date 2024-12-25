@@ -1,0 +1,501 @@
+Price,Number_of_Reviews,Average_Review_Score,Brand_Popularity,Product_Age,Category
+566.0,680.0,2.1,High,51.0,Electronics
+971.0,4651.0,2.6,Low,,Books
+785.0,609.0,4.2,Low,63.0,Electronics
+592.0,,1.1,High,57.0,Books
+513.0,3866.0,3.6,Medium,12.0,Clothing
+,371.0,3.7,Low,,Clothing
+380.0,615.0,4.2,,2.0,Books
+112.0,2253.0,4.7,Low,8.0,Home Decor
+134.0,4942.0,1.1,,11.0,Home Decor
+322.0,,,Low,53.0,Clothing
+985.0,864.0,4.5,High,,Clothing
+,1268.0,2.8,High,10.0,Electronics
+467.0,784.0,3.3,High,85.0,Clothing
+239.0,,,Low,84.0,Books
+667.0,4178.0,3.7,High,112.0,Home Decor
+891.0,2237.0,4.7,Medium,8.0,Home Decor
+206.0,4054.0,5.0,,,Electronics
+894.0,4895.0,3.9,Low,93.0,Home Decor
+742.0,935.0,2.1,Low,106.0,Home Decor
+432.0,3980.0,,Low,76.0,Books
+581.0,2338.0,1.2,Low,,Home Decor
+619.0,325.0,1.9,High,112.0,Electronics
+,1534.0,,High,54.0,Electronics
+391.0,3480.0,2.0,Low,,Home Decor
+182.0,3861.0,1.9,High,85.0,Clothing
+672.0,1985.0,1.6,Low,86.0,Home Decor
+462.0,4932.0,4.4,,,Electronics
+359.0,4603.0,3.0,,108.0,Electronics
+911.0,2778.0,3.7,High,50.0,Books
+,1270.0,2.0,High,94.0,Home Decor
+643.0,640.0,4.0,Medium,39.0,Home Decor
+,4703.0,4.0,,20.0,Books
+629.0,4078.0,2.3,Medium,88.0,Electronics
+13.0,4661.0,2.6,High,87.0,Books
+102.0,1367.0,1.8,Medium,7.0,Clothing
+928.0,4042.0,,Low,9.0,Home Decor
+15.0,2575.0,3.6,Low,1.0,Electronics
+297.0,3603.0,4.7,High,26.0,Books
+627.0,1581.0,2.2,Medium,38.0,Electronics
+155.0,1986.0,4.1,Medium,,Clothing
+792.0,2240.0,4.1,Medium,118.0,Home Decor
+433.0,3966.0,3.8,Low,61.0,Books
+899.0,2105.0,4.9,Low,44.0,Electronics
+617.0,128.0,2.6,Medium,86.0,Home Decor
+466.0,4801.0,,Low,44.0,Home Decor
+750.0,3996.0,3.7,Low,74.0,Electronics
+211.0,851.0,3.9,Medium,119.0,Home Decor
+221.0,4103.0,3.3,Low,62.0,Home Decor
+15.0,2076.0,1.8,Medium,6.0,Books
+633.0,2994.0,3.0,Medium,,Home Decor
+385.0,3744.0,,High,51.0,Books
+900.0,2756.0,2.7,Medium,114.0,Home Decor
+456.0,1644.0,3.6,Low,38.0,Clothing
+844.0,,4.0,High,24.0,Clothing
+115.0,3144.0,1.9,Medium,51.0,Books
+660.0,242.0,,High,10.0,Books
+820.0,4085.0,2.1,Low,72.0,Clothing
+410.0,170.0,1.8,Medium,21.0,Home Decor
+105.0,652.0,4.1,,70.0,Books
+397.0,3512.0,4.6,High,85.0,Electronics
+968.0,,2.5,Medium,57.0,Home Decor
+461.0,2099.0,4.0,High,39.0,Home Decor
+858.0,2158.0,4.6,High,88.0,Clothing
+818.0,1972.0,4.4,Medium,33.0,Books
+988.0,3925.0,1.7,High,59.0,Home Decor
+910.0,2258.0,4.8,Low,18.0,Books
+425.0,4039.0,2.5,High,,Books
+735.0,2035.0,2.4,Low,92.0,Books
+513.0,3271.0,1.2,,,Clothing
+463.0,857.0,2.9,High,116.0,Books
+300.0,3823.0,1.4,Low,96.0,Clothing
+543.0,1049.0,2.0,Medium,76.0,Electronics
+,3990.0,2.3,Low,48.0,Home Decor
+989.0,298.0,4.2,Low,42.0,Home Decor
+159.0,923.0,4.5,Low,27.0,Electronics
+889.0,4232.0,2.2,Medium,74.0,Clothing
+768.0,4306.0,4.4,Medium,110.0,Home Decor
+788.0,,4.4,Medium,52.0,Clothing
+982.0,4875.0,4.1,High,42.0,Clothing
+,4062.0,1.6,Medium,32.0,Clothing
+524.0,4045.0,,Low,106.0,Electronics
+402.0,1802.0,4.8,Medium,26.0,Electronics
+325.0,2713.0,3.7,Medium,25.0,Clothing
+85.0,,2.3,Low,75.0,Books
+608.0,2853.0,,High,23.0,Electronics
+279.0,,3.6,Medium,98.0,Books
+234.0,4522.0,3.0,High,,Books
+539.0,,1.5,High,52.0,Clothing
+122.0,1471.0,2.2,High,104.0,Books
+260.0,2949.0,4.2,Low,87.0,Books
+242.0,941.0,,High,93.0,Books
+850.0,1907.0,1.5,High,31.0,Clothing
+800.0,,4.8,Low,64.0,Clothing
+723.0,1243.0,2.3,High,71.0,Electronics
+92.0,,3.6,,,Electronics
+134.0,1466.0,4.0,Low,33.0,Books
+184.0,3957.0,4.2,Low,85.0,Clothing
+78.0,1966.0,4.8,,,Clothing
+56.0,375.0,2.3,Medium,18.0,Books
+893.0,262.0,4.4,Medium,,Electronics
+265.0,4362.0,1.5,High,33.0,Clothing
+736.0,3388.0,3.8,High,101.0,Electronics
+39.0,3395.0,4.0,High,98.0,Books
+290.0,1944.0,3.7,Low,84.0,Clothing
+,1893.0,2.0,High,35.0,Books
+246.0,3634.0,4.5,Medium,51.0,Home Decor
+257.0,1652.0,1.7,Low,114.0,Books
+377.0,4141.0,1.2,Low,118.0,Books
+504.0,3892.0,3.9,Low,18.0,Books
+,599.0,2.9,Medium,110.0,Clothing
+595.0,4815.0,4.4,Medium,88.0,Books
+,1912.0,2.5,,72.0,Books
+499.0,1292.0,1.7,Low,30.0,Home Decor
+503.0,600.0,4.3,Low,44.0,Clothing
+,380.0,3.2,High,53.0,Home Decor
+615.0,4213.0,1.8,High,10.0,Books
+384.0,3637.0,3.9,Medium,87.0,Clothing
+648.0,,3.0,Low,52.0,Home Decor
+946.0,4355.0,3.4,High,,Books
+34.0,1098.0,2.8,Medium,,Electronics
+343.0,365.0,4.3,Medium,66.0,Home Decor
+364.0,2570.0,4.3,High,58.0,Clothing
+125.0,3419.0,3.8,Medium,90.0,Home Decor
+57.0,2476.0,1.4,Low,,Home Decor
+747.0,790.0,4.4,Medium,33.0,Home Decor
+787.0,3569.0,3.7,,47.0,Electronics
+108.0,746.0,3.8,Low,13.0,Clothing
+468.0,312.0,2.5,High,40.0,Clothing
+532.0,4633.0,,High,89.0,Clothing
+606.0,920.0,3.9,High,68.0,Books
+,1077.0,1.5,Medium,42.0,Clothing
+223.0,2829.0,2.6,High,19.0,Clothing
+694.0,2381.0,,High,82.0,Electronics
+912.0,3618.0,1.2,Medium,101.0,Books
+512.0,797.0,4.8,High,94.0,Books
+,,3.7,Medium,19.0,Home Decor
+457.0,272.0,3.5,Medium,,Books
+903.0,3010.0,2.1,Low,23.0,Books
+585.0,,2.0,Low,54.0,Electronics
+267.0,1773.0,4.8,High,80.0,Clothing
+853.0,2547.0,2.2,Medium,,Books
+,3164.0,4.1,Low,12.0,Books
+819.0,4780.0,2.6,Low,,Electronics
+987.0,4717.0,1.6,Low,34.0,Books
+63.0,946.0,1.0,Low,53.0,Books
+340.0,2665.0,3.2,High,8.0,Electronics
+793.0,506.0,4.9,,18.0,Home Decor
+250.0,243.0,2.5,High,57.0,Home Decor
+764.0,505.0,2.4,Medium,112.0,Books
+539.0,4517.0,2.4,High,5.0,Books
+492.0,3158.0,3.1,Low,26.0,Clothing
+196.0,3590.0,2.8,Medium,30.0,Books
+867.0,1872.0,4.5,Medium,54.0,Clothing
+665.0,3793.0,,High,13.0,Home Decor
+271.0,1192.0,3.0,Medium,83.0,Books
+962.0,4425.0,1.6,High,29.0,Books
+373.0,4745.0,,Medium,3.0,Electronics
+500.0,1464.0,2.0,High,90.0,Books
+440.0,390.0,1.3,Low,104.0,Home Decor
+248.0,,3.7,High,58.0,Books
+313.0,3377.0,3.4,High,76.0,Clothing
+307.0,4837.0,2.7,Low,2.0,Books
+85.0,4915.0,2.7,High,75.0,Clothing
+,672.0,4.1,High,108.0,Electronics
+342.0,2560.0,1.8,Medium,28.0,Books
+909.0,1211.0,4.3,High,82.0,Electronics
+767.0,929.0,3.6,Medium,77.0,Electronics
+651.0,1539.0,2.7,,101.0,Books
+483.0,912.0,2.8,Medium,86.0,Clothing
+836.0,643.0,,Medium,76.0,Books
+932.0,4522.0,4.0,Low,,Clothing
+292.0,501.0,3.1,,101.0,Electronics
+600.0,,,,7.0,Home Decor
+81.0,,3.4,High,26.0,Books
+,,5.0,High,90.0,Home Decor
+712.0,4552.0,2.7,Medium,88.0,Clothing
+888.0,4386.0,4.7,High,76.0,Books
+896.0,3836.0,2.4,Low,16.0,Home Decor
+951.0,919.0,,High,23.0,Home Decor
+584.0,4050.0,1.8,Low,,Books
+901.0,2339.0,2.7,High,60.0,Home Decor
+21.0,755.0,1.9,Medium,73.0,Books
+150.0,1869.0,1.0,High,32.0,Home Decor
+775.0,4472.0,,High,15.0,Electronics
+564.0,507.0,4.4,High,101.0,Books
+26.0,1436.0,4.0,Low,13.0,Electronics
+,2575.0,1.7,Low,5.0,Electronics
+262.0,3426.0,1.5,Medium,75.0,Home Decor
+474.0,558.0,1.3,Low,74.0,Clothing
+,3102.0,3.9,High,52.0,Electronics
+813.0,4516.0,4.7,High,77.0,Electronics
+990.0,,,Low,41.0,Electronics
+529.0,4399.0,1.5,High,53.0,Clothing
+846.0,4057.0,3.0,Medium,110.0,Clothing
+,,2.4,Medium,50.0,Electronics
+729.0,1301.0,2.5,Low,15.0,Clothing
+813.0,2155.0,3.5,Low,106.0,Clothing
+805.0,692.0,3.9,Medium,7.0,Clothing
+639.0,4350.0,1.4,Medium,40.0,Books
+870.0,,1.1,Low,28.0,Electronics
+184.0,256.0,,Low,32.0,Clothing
+85.0,2430.0,1.9,Low,99.0,Books
+622.0,,1.2,High,15.0,Home Decor
+935.0,1881.0,1.8,Low,112.0,Home Decor
+672.0,2646.0,1.2,Low,100.0,Clothing
+409.0,3820.0,2.6,High,,Electronics
+791.0,4677.0,4.2,Medium,70.0,Clothing
+979.0,1735.0,2.4,Low,65.0,Home Decor
+80.0,3735.0,2.8,High,4.0,Electronics
+189.0,2645.0,3.7,Low,,Electronics
+133.0,18.0,3.0,Low,108.0,Home Decor
+390.0,1124.0,4.4,High,26.0,Books
+302.0,3985.0,4.5,Medium,,Books
+806.0,,1.0,High,37.0,Clothing
+204.0,2080.0,4.1,,23.0,Electronics
+920.0,1547.0,2.8,Medium,93.0,Clothing
+237.0,861.0,5.0,High,85.0,Electronics
+440.0,154.0,2.9,High,112.0,Home Decor
+951.0,3494.0,4.9,Medium,109.0,Electronics
+445.0,,4.0,Low,109.0,Electronics
+,,2.0,High,113.0,Home Decor
+470.0,404.0,3.2,High,,Books
+627.0,843.0,5.0,High,103.0,Home Decor
+30.0,,4.4,Low,40.0,Electronics
+73.0,,1.4,High,77.0,Home Decor
+174.0,,3.8,Medium,23.0,Electronics
+36.0,,2.4,Medium,16.0,Books
+320.0,1725.0,1.0,High,94.0,Books
+,3188.0,2.6,High,61.0,Electronics
+669.0,270.0,,Medium,68.0,Books
+290.0,4865.0,4.3,Medium,104.0,Home Decor
+847.0,3956.0,2.3,High,80.0,Books
+840.0,171.0,,Medium,31.0,Clothing
+173.0,273.0,1.0,Low,53.0,Books
+907.0,2306.0,2.2,Low,106.0,Clothing
+,1158.0,2.0,Low,25.0,Home Decor
+233.0,1706.0,1.9,Low,44.0,Books
+,1771.0,1.3,Medium,12.0,Books
+155.0,421.0,1.7,Low,90.0,Books
+974.0,1209.0,3.2,High,101.0,Home Decor
+959.0,4675.0,2.2,High,112.0,Home Decor
+877.0,890.0,2.7,Low,97.0,Clothing
+39.0,4817.0,2.5,High,92.0,Electronics
+,3267.0,4.5,Low,,Home Decor
+796.0,,4.6,Low,12.0,Books
+480.0,1473.0,3.0,Low,69.0,Clothing
+43.0,3243.0,2.3,High,54.0,Books
+662.0,4478.0,,,116.0,Books
+436.0,2181.0,4.8,Low,54.0,Home Decor
+839.0,1449.0,1.2,Low,28.0,Electronics
+895.0,3096.0,2.2,Low,,Books
+230.0,3256.0,2.2,Low,,Home Decor
+,3156.0,2.3,Medium,69.0,Clothing
+543.0,,1.7,Low,,Books
+701.0,4239.0,4.1,High,110.0,Clothing
+957.0,3981.0,1.5,Low,98.0,Home Decor
+376.0,1435.0,3.5,Medium,77.0,Home Decor
+941.0,223.0,1.5,High,103.0,Home Decor
+850.0,219.0,1.3,Medium,106.0,Home Decor
+752.0,4274.0,4.6,Low,109.0,Home Decor
+924.0,,1.8,High,112.0,Electronics
+559.0,,4.3,Low,58.0,Clothing
+591.0,264.0,3.2,,,Electronics
+125.0,953.0,1.3,High,,Clothing
+248.0,4524.0,4.8,High,42.0,Books
+344.0,3733.0,2.0,Medium,38.0,Books
+450.0,2774.0,4.4,Low,68.0,Clothing
+157.0,3124.0,,Medium,53.0,Books
+18.0,,,,33.0,Books
+,3514.0,1.1,Low,71.0,Books
+397.0,1353.0,3.0,Low,56.0,Electronics
+59.0,3322.0,4.1,Low,105.0,Electronics
+859.0,3878.0,4.7,High,72.0,Home Decor
+,889.0,4.6,Medium,101.0,Clothing
+925.0,3854.0,4.3,Medium,51.0,Books
+864.0,924.0,4.6,Medium,74.0,Clothing
+647.0,2170.0,1.8,Medium,43.0,Home Decor
+596.0,1902.0,2.1,Medium,15.0,Home Decor
+686.0,4873.0,2.2,High,38.0,Books
+287.0,2395.0,2.5,Low,15.0,Home Decor
+963.0,28.0,2.6,High,5.0,Books
+845.0,,3.2,High,,Home Decor
+998.0,3589.0,1.6,,83.0,Home Decor
+309.0,2670.0,3.8,Low,54.0,Books
+811.0,3365.0,1.7,Low,51.0,Home Decor
+598.0,588.0,2.2,Medium,10.0,Home Decor
+,3218.0,3.0,High,12.0,Home Decor
+658.0,3138.0,4.2,Medium,118.0,Clothing
+627.0,903.0,4.0,Low,,Electronics
+616.0,4086.0,3.6,Low,95.0,Clothing
+144.0,2169.0,1.6,Low,18.0,Home Decor
+,339.0,3.2,Low,80.0,Electronics
+156.0,4270.0,1.3,High,104.0,Clothing
+499.0,1714.0,2.5,,36.0,Clothing
+487.0,,,Low,25.0,Clothing
+168.0,4546.0,1.2,Medium,87.0,Books
+393.0,556.0,2.1,,76.0,Home Decor
+172.0,,4.8,Medium,98.0,Home Decor
+,3266.0,4.8,Medium,36.0,Electronics
+,3567.0,2.4,Low,101.0,Clothing
+198.0,2056.0,1.2,,67.0,Home Decor
+424.0,3899.0,1.7,Medium,9.0,Clothing
+348.0,1016.0,2.6,High,,Home Decor
+616.0,2062.0,4.8,,53.0,Clothing
+190.0,838.0,1.6,Low,18.0,Home Decor
+297.0,,4.1,High,,Electronics
+843.0,4321.0,1.4,High,35.0,Clothing
+196.0,3496.0,4.9,Low,63.0,Home Decor
+893.0,1813.0,2.5,,119.0,Electronics
+147.0,3479.0,4.1,Low,98.0,Electronics
+139.0,1451.0,2.4,Low,105.0,Home Decor
+203.0,2313.0,,Medium,78.0,Clothing
+325.0,1514.0,1.8,Medium,4.0,Books
+993.0,1231.0,,Medium,93.0,Electronics
+794.0,1645.0,4.8,Low,41.0,Electronics
+873.0,2999.0,4.7,Medium,45.0,Home Decor
+153.0,3440.0,4.5,Low,50.0,Books
+25.0,4056.0,3.5,Low,79.0,Books
+311.0,305.0,4.2,Medium,28.0,Books
+432.0,3536.0,1.3,,42.0,Home Decor
+254.0,,2.3,Medium,80.0,Clothing
+936.0,1689.0,2.3,Medium,76.0,Electronics
+116.0,1517.0,3.5,Medium,116.0,Home Decor
+97.0,3917.0,2.4,Medium,69.0,Books
+138.0,419.0,1.6,Medium,98.0,Electronics
+916.0,2936.0,3.4,High,,Electronics
+896.0,3862.0,,High,1.0,Books
+350.0,4229.0,,,39.0,Books
+13.0,1450.0,1.5,High,96.0,Electronics
+336.0,3096.0,1.8,High,90.0,Electronics
+419.0,3261.0,1.9,Medium,,Clothing
+888.0,1164.0,2.2,Low,112.0,Clothing
+,1869.0,3.6,Low,91.0,Home Decor
+917.0,1819.0,3.4,Medium,88.0,Electronics
+616.0,2705.0,3.8,,35.0,Clothing
+730.0,3515.0,2.5,Low,,Electronics
+234.0,1342.0,4.3,High,42.0,Books
+980.0,2226.0,1.8,High,118.0,Clothing
+357.0,1079.0,2.9,,39.0,Books
+330.0,4206.0,4.2,Low,90.0,Books
+568.0,4563.0,1.7,High,49.0,Books
+997.0,2779.0,,Medium,62.0,Home Decor
+190.0,2528.0,4.5,Low,38.0,Books
+627.0,813.0,2.4,Low,23.0,Home Decor
+,2031.0,3.7,High,,Electronics
+395.0,322.0,1.1,Medium,4.0,Electronics
+627.0,2969.0,3.8,High,49.0,Clothing
+801.0,903.0,2.3,High,,Clothing
+,,1.2,Low,73.0,Home Decor
+117.0,3503.0,3.4,Low,68.0,Electronics
+540.0,2653.0,2.0,,71.0,Clothing
+419.0,2476.0,2.5,Low,87.0,Clothing
+980.0,3340.0,1.3,Low,2.0,Clothing
+305.0,4243.0,,Low,49.0,Electronics
+827.0,1141.0,2.2,High,88.0,Clothing
+180.0,849.0,1.4,Low,104.0,Electronics
+340.0,366.0,,High,,Books
+502.0,2897.0,1.0,Low,95.0,Books
+204.0,1089.0,2.9,Medium,111.0,Books
+21.0,4041.0,1.5,Low,,Home Decor
+204.0,,2.2,,111.0,Electronics
+499.0,2860.0,4.7,Low,40.0,Clothing
+804.0,4270.0,1.6,High,48.0,Home Decor
+890.0,1854.0,,High,51.0,Home Decor
+191.0,4683.0,1.8,,43.0,Books
+971.0,494.0,4.0,High,98.0,Electronics
+826.0,3182.0,3.2,Low,55.0,Clothing
+665.0,1784.0,4.5,Medium,88.0,Home Decor
+907.0,3510.0,3.2,High,49.0,Clothing
+325.0,,3.1,High,90.0,Books
+703.0,4130.0,1.8,High,80.0,Electronics
+39.0,998.0,1.7,High,57.0,Clothing
+605.0,4469.0,4.7,Medium,111.0,Clothing
+687.0,1451.0,2.3,,77.0,Home Decor
+805.0,1751.0,2.5,Low,15.0,Clothing
+802.0,2280.0,4.0,High,27.0,Electronics
+105.0,4800.0,2.4,High,68.0,Electronics
+390.0,4658.0,4.8,Medium,80.0,Clothing
+787.0,2934.0,4.0,Low,64.0,Home Decor
+453.0,3734.0,3.4,Medium,94.0,Home Decor
+307.0,3346.0,4.5,Medium,108.0,Books
+,1873.0,1.2,Low,30.0,Electronics
+746.0,4534.0,2.0,High,36.0,Books
+854.0,3803.0,2.9,,67.0,Home Decor
+370.0,1979.0,1.9,Medium,86.0,Books
+,698.0,,Medium,113.0,Home Decor
+563.0,1312.0,4.7,,86.0,Books
+312.0,2962.0,2.7,Low,,Books
+,2938.0,,Low,114.0,Electronics
+255.0,4787.0,4.8,,119.0,Electronics
+729.0,,2.8,High,49.0,Books
+,3197.0,3.0,High,76.0,Home Decor
+543.0,,2.4,Low,55.0,Home Decor
+194.0,1191.0,4.6,Low,85.0,Electronics
+477.0,2639.0,3.3,High,56.0,Electronics
+763.0,4389.0,4.0,Low,68.0,Clothing
+372.0,3916.0,4.2,,95.0,Electronics
+292.0,1366.0,2.4,Medium,44.0,Home Decor
+562.0,1019.0,2.7,Low,31.0,Electronics
+,4079.0,4.4,Medium,58.0,Clothing
+171.0,4514.0,2.5,Low,87.0,Books
+169.0,4539.0,4.2,Low,118.0,Books
+483.0,684.0,4.8,Medium,53.0,Home Decor
+610.0,3629.0,3.5,Medium,84.0,Clothing
+331.0,2887.0,,Low,79.0,Books
+21.0,1462.0,4.2,Medium,23.0,Books
+433.0,4086.0,4.4,High,,Electronics
+82.0,,,High,16.0,Books
+597.0,4180.0,1.2,Medium,37.0,Home Decor
+,2841.0,2.6,High,21.0,Books
+210.0,1767.0,3.7,High,79.0,Home Decor
+531.0,4180.0,2.8,High,17.0,Home Decor
+873.0,3560.0,,Low,114.0,Electronics
+514.0,2112.0,2.4,High,37.0,Clothing
+747.0,4758.0,3.5,High,77.0,Home Decor
+,626.0,1.7,,19.0,Books
+797.0,,4.0,High,30.0,Books
+48.0,3414.0,3.2,Low,45.0,Home Decor
+69.0,1375.0,1.8,,18.0,Books
+,1181.0,2.2,Medium,78.0,Electronics
+330.0,490.0,4.0,Low,62.0,Books
+444.0,3729.0,2.9,Low,36.0,Electronics
+645.0,3534.0,1.9,High,100.0,Home Decor
+685.0,3296.0,4.9,High,84.0,Home Decor
+,1940.0,3.9,Low,52.0,Home Decor
+932.0,4408.0,4.8,Medium,19.0,Electronics
+395.0,,2.7,Medium,109.0,Books
+680.0,4908.0,2.9,High,44.0,Electronics
+578.0,2987.0,4.6,,7.0,Books
+87.0,3159.0,3.1,High,44.0,Books
+203.0,4775.0,3.8,,117.0,Electronics
+294.0,4530.0,2.0,Low,68.0,Clothing
+536.0,681.0,,High,34.0,Home Decor
+533.0,1073.0,1.5,High,66.0,Books
+622.0,2387.0,1.8,Medium,69.0,Books
+165.0,2394.0,1.0,High,55.0,Electronics
+349.0,2693.0,1.2,Medium,,Clothing
+,1370.0,4.9,Medium,96.0,Home Decor
+880.0,4744.0,2.0,Low,42.0,Clothing
+289.0,4340.0,3.7,Low,41.0,Home Decor
+926.0,2156.0,4.4,High,77.0,Books
+915.0,2580.0,,Medium,,Books
+,4391.0,1.6,,69.0,Electronics
+855.0,2159.0,,Low,10.0,Electronics
+878.0,3248.0,3.4,,10.0,Clothing
+667.0,3731.0,3.9,Medium,102.0,Clothing
+737.0,3829.0,4.1,Low,91.0,Home Decor
+919.0,1627.0,4.9,High,60.0,Electronics
+,3472.0,3.3,Medium,51.0,Books
+137.0,27.0,2.4,Low,21.0,Electronics
+323.0,1985.0,3.6,,8.0,Clothing
+341.0,4153.0,,,65.0,Electronics
+159.0,1521.0,4.6,High,92.0,Books
+463.0,296.0,,High,113.0,Electronics
+,2181.0,,Medium,103.0,Clothing
+694.0,3402.0,4.3,High,78.0,Books
+429.0,2296.0,3.4,Low,85.0,Home Decor
+31.0,2597.0,,Low,30.0,Home Decor
+215.0,901.0,2.9,Low,85.0,Books
+648.0,1098.0,4.4,High,49.0,Books
+857.0,1677.0,,Low,9.0,Books
+966.0,2881.0,4.5,High,17.0,Clothing
+365.0,4866.0,1.4,Low,69.0,Books
+,1378.0,4.1,Medium,58.0,Clothing
+738.0,1248.0,4.4,High,57.0,Books
+105.0,,1.7,High,62.0,Clothing
+938.0,4241.0,2.7,Low,95.0,Clothing
+950.0,1264.0,1.7,Medium,52.0,Electronics
+173.0,1907.0,3.8,Low,61.0,Home Decor
+,1058.0,3.1,Low,40.0,Books
+539.0,2749.0,3.5,Medium,38.0,Home Decor
+303.0,2048.0,1.8,Medium,,Home Decor
+204.0,4248.0,1.8,,63.0,Electronics
+672.0,2476.0,1.2,,19.0,Home Decor
+489.0,4016.0,2.3,Low,100.0,Home Decor
+886.0,4603.0,3.2,High,50.0,Books
+,3197.0,4.4,,33.0,Clothing
+409.0,,3.7,High,13.0,Books
+708.0,3553.0,2.7,Low,78.0,Books
+974.0,4440.0,4.8,Medium,97.0,Home Decor
+461.0,1761.0,3.9,High,62.0,Home Decor
+670.0,220.0,4.7,Medium,93.0,Books
+113.0,4818.0,,High,43.0,Books
+764.0,4623.0,2.0,High,49.0,Home Decor
+471.0,2888.0,1.2,Low,36.0,Clothing
+752.0,1664.0,3.9,Low,108.0,Clothing
+727.0,3986.0,1.5,Low,10.0,Books
+719.0,4576.0,2.2,Low,95.0,Clothing
+405.0,2977.0,,Medium,6.0,Books
+921.0,1871.0,3.3,Low,57.0,Electronics
+346.0,1462.0,3.4,,1.0,Home Decor
+608.0,344.0,1.7,High,71.0,Books
+151.0,44.0,2.5,Medium,58.0,Books
+326.0,2068.0,3.5,Medium,91.0,Books
+720.0,1514.0,4.9,High,21.0,Clothing
+567.0,2598.0,3.9,High,92.0,Books
+809.0,1001.0,4.7,Low,80.0,Electronics
+536.0,,4.0,Medium,,Clothing
+565.0,2040.0,3.4,Low,110.0,Home Decor
+410.0,273.0,1.8,High,87.0,Electronics
