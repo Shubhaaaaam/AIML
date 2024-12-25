@@ -35,8 +35,6 @@ r2 = r2_score(y_test, y_pred)
 print(f"Mean Squared Error (MSE): {mse}")
 print(f"Mean Absolute Error (MAE): {mae}")
 print(f"R^2 Score: {r2}")
-
-# Step 14: Analysis of the results
 print("\nAnalysis:")
 print(f"The model explains {r2 * 100:.2f}% of the variance in the target variable.")
 print("Lower MSE and MAE indicate better model performance. Evaluate residuals for more insight.")
