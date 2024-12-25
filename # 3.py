@@ -14,6 +14,7 @@ dataset = pd.DataFrame(imputer.fit_transform(dataset), columns=dataset.columns)
 scaler = StandardScaler()
 scaled_columns = ["Square_Footage", "Number_of_Bedrooms", "Number_of_Bathrooms", "Distance_to_City_Center", "Age_of_the_House"]
 dataset[scaled_columns] = scaler.fit_transform(dataset[scaled_columns])
+#Model
 model = KNeighborsRegressor(n_neighbors=5)
 X = dataset.drop("Selling_Price", axis=1)
 y = dataset["Selling_Price"]
